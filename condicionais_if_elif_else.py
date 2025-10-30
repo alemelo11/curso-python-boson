@@ -4,7 +4,7 @@
 # - elif: permite testar múltiplas condições, se o 'if' anterior for falso.
 # - else: executa um bloco de código se todas as condições anteriores forem falsas.
 # Exemplo:
-# idade = 18
+idade = 18
 if idade < 18:
     print("Menor de idade")
 elif idade == 18:
